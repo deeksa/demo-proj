@@ -51,7 +51,7 @@ class Form extends Component{
                     </div>
                     <div className="space1"> 
                     <lable>Date Of Birth</lable>
-                    <input type="Text"
+                    <input type="Date"
                     name="birthdate"
                     />
                     </div>

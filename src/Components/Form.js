@@ -21,7 +21,7 @@ class Form extends Component{
         return(
             <form onSubmit={this.submitChange}>
             <div className="but1">
-                <button className="but2">Save</button>
+                <button className="but2">save</button>
             </div>
             
             <div className="div1">

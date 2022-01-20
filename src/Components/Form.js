@@ -27,7 +27,7 @@ class Form extends Component{
             <div className="div1">
                 <div className="div2">
                     <div className="space1"> 
-                    <lable>First name</lable>
+                    <lable>First Name</lable>
                     <input type="Text" 
                     //value={this.state.Firstname}
                     

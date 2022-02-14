@@ -24,3 +24,11 @@
 .para1{
     color:black;
 }
+.unlist{
+    list-style-type: none;
+}
+.lilist{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
